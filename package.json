@@ -39,7 +39,7 @@
     "lodash": "~4.17.13",
     "node-static": "~0.7.11",
     "prop-types": "^15.6.0",
-    "puppeteer": "~1.17.0",
+    "puppeteer": "~3.0.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "request": "^2.87.0",
