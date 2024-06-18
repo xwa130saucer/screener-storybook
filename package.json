@@ -39,7 +39,7 @@
     "js-yaml": "^3.13.1",
     "lodash": "~4.17.21",
     "prop-types": "^15.6.0",
-    "puppeteer": "~1.17.0",
+    "puppeteer": "~22.6.4",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "request": "^2.87.0",
